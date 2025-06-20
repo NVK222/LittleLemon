@@ -5,3 +5,5 @@ API Paths to test:
 /restaurant/booking/tables/
 /auth/token/login/
 /auth/token/logout/
+
+Tests are in app directory
